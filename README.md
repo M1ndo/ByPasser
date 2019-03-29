@@ -1,5 +1,5 @@
 # ByPasser
-A Python Script Allow You To Bypass Waf In A Host Or a Demain
+A Python Script Allows You To Bypass Waf In A Host Or a Demain
 
 ## Installation 
 
