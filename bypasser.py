@@ -165,7 +165,7 @@ print("        "+Red+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Red+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Red+"MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM")
 print("        "+Blue+"              "+Green+"["+Reset+"ByPasser"+Reset+"]"+Blue+"         ")
-print("     "+purple+"         "+purple+"["+Light+"Created By ybenel"+Light+"]"+purple+"    "+Reset+"\n")
+print("     "+purple+"         "+purple+"["+Light+"  Created By ybenel"+Light+"]"+purple+"    "+Reset+"\n")
 
 if __name__ == "__main__":
     start = time.time()
